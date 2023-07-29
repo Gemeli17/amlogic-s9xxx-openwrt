@@ -178,7 +178,7 @@ on:
         type: choice
         options:
           - angel
-          - yourname
+          - gemeli
 
 env:
   FEEDS_CONF: config-openwrt/${{ inputs.source_branch }}/feeds.conf.default
